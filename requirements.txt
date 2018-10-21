@@ -1,0 +1,5 @@
+rev_ai
+flask
+requests
+werkzeug
+flask_googlemaps

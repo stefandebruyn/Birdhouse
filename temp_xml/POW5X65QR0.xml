@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegionChildren:regionchildren xsi:schemaLocation="http://www.zillow.com/static/xsd/RegionChildren.xsd https://www.zillowstatic.com/vstatic/18f7df5/static/xsd/RegionChildren.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:RegionChildren="http://www.zillow.com/static/xsd/RegionChildren.xsd">
+<request>
+<state>TX</state>
+<city>austin</city>
+<childtype>neighborhood</childtype>
+</request>
+<message>
+<text>Request successfully processed</text>
+<code>0</code>
+</message>
+<response>
+<region>
+<id>10221</id>
+<latitude>30.293677</latitude>
+<longitude>-97.785714</longitude>
+</region>
+<subregiontype>neighborhood</subregiontype>
+<list>
+<count>69</count>
+<region>
+<id>274685</id>
+<name>North Austin</name>
+<url>http://www.zillow.com/local-info/TX-Austin/North-Austin/r_274685/</url>
+<latitude>30.3683</latitude>
+<longitude>-97.705015</longitude>
+</region>
+<region>
+<id>271391</id>
+<name>Franklin Park</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Franklin-Park/r_271391/</url>
+<latitude>30.197394</latitude>
+<longitude>-97.748791</longitude>
+</region>
+<region>
+<id>275057</id>
+<name>Pleasant Valley</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Pleasant-Valley/r_275057/</url>
+<latitude>30.232714</latitude>
+<longitude>-97.709425</longitude>
+</region>
+<region>
+<id>271652</id>
+<name>Windsor Park</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Windsor-Park/r_271652/</url>
+<latitude>30.308593</latitude>
+<longitude>-97.690564</longitude>
+</region>
+<region>
+<id>15461</id>
+<name>Jollyville</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Jollyville/r_15461/</url>
+<latitude>30.458884</latitude>
+<longitude>-97.752488</longitude>
+</region>
+<region>
+<id>271635</id>
+<name>West University</name>
+<url>http://www.zillow.com/local-info/TX-Austin/West-University/r_271635/</url>
+<latitude>30.29314</latitude>
+<longitude>-97.745656</longitude>
+</region>
+<region>
+<id>416968</id>
+<name>West Oak Hill</name>
+<url>http://www.zillow.com/local-info/TX-Austin/West-Oak-Hill/r_416968/</url>
+<latitude>30.236457</latitude>
+<longitude>-97.891209</longitude>
+</region>
+<region>
+<id>416969</id>
+<name>East Oak Hill</name>
+<url>http://www.zillow.com/local-info/TX-Austin/East-Oak-Hill/r_416969/</url>
+<latitude>30.245753</latitude>
+<longitude>-97.83871</longitude>
+</region>
+<region>
+<id>276540</id>
+<name>Riverside</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Riverside/r_276540/</url>
+<latitude>30.238589</latitude>
+<longitude>-97.727412</longitude>
+</region>
+<region>
+<id>235693</id>
+<name>Montopolis</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Montopolis/r_235693/</url>
+<latitude>30.228063</latitude>
+<longitude>-97.697771</longitude>
+</region>
+<region>
+<id>271395</id>
+<name>Garrison Park</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Garrison-Park/r_271395/</url>
+<latitude>30.209637</latitude>
+<longitude>-97.801071</longitude>
+</region>
+<region>
+<id>238833</id>
+<name>Wells Branch</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Wells-Branch/r_238833/</url>
+<latitude>30.446377</latitude>
+<longitude>-97.682194</longitude>
+</region>
+<region>
+<id>271529</id>
+<name>Parker Lane</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Parker-Lane/r_271529/</url>
+<latitude>30.223002</latitude>
+<longitude>-97.731185</longitude>
+</region>
+<region>
+<id>271286</id>
+<name>Allandale</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Allandale/r_271286/</url>
+<latitude>30.340117</latitude>
+<longitude>-97.74347</longitude>
+</region>
+<region>
+<id>271398</id>
+<name>Georgian Acres</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Georgian-Acres/r_271398/</url>
+<latitude>30.351274</latitude>
+<longitude>-97.700336</longitude>
+</region>
+<region>
+<id>271614</id>
+<name>University of Texas</name>
+<url>http://www.zillow.com/local-info/TX-Austin/University-of-Texas/r_271614/</url>
+<latitude>30.283937</latitude>
+<longitude>-97.732502</longitude>
+</region>
+<region>
+<id>271588</id>
+<name>St. Johns</name>
+<url>http://www.zillow.com/local-info/TX-Austin/St.-Johns/r_271588/</url>
+<latitude>30.331847</latitude>
+<longitude>-97.698777</longitude>
+</region>
+<region>
+<id>271570</id>
+<name>South Lamar</name>
+<url>http://www.zillow.com/local-info/TX-Austin/South-Lamar/r_271570/</url>
+<latitude>30.238237</latitude>
+<longitude>-97.78232</longitude>
+</region>
+<region>
+<id>271311</id>
+<name>Brentwood</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Brentwood/r_271311/</url>
+<latitude>30.329552</latitude>
+<longitude>-97.730602</longitude>
+</region>
+<region>
+<id>271296</id>
+<name>Barton Hills</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Barton-Hills/r_271296/</url>
+<latitude>30.252563</latitude>
+<longitude>-97.786169</longitude>
+</region>
+<region>
+<id>271651</id>
+<name>Windsor Hills</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Windsor-Hills/r_271651/</url>
+<latitude>30.363987</latitude>
+<longitude>-97.676954</longitude>
+</region>
+<region>
+<id>276459</id>
+<name>MLK 183</name>
+<url>http://www.zillow.com/local-info/TX-Austin/MLK-183/r_276459/</url>
+<latitude>30.282848</latitude>
+<longitude>-97.673936</longitude>
+</region>
+<region>
+<id>271572</id>
+<name>South Manchaca</name>
+<url>http://www.zillow.com/local-info/TX-Austin/South-Manchaca/r_271572/</url>
+<latitude>30.219489</latitude>
+<longitude>-97.783435</longitude>
+</region>
+<region>
+<id>271497</id>
+<name>North Lamar</name>
+<url>http://www.zillow.com/local-info/TX-Austin/North-Lamar/r_271497/</url>
+<latitude>30.370109</latitude>
+<longitude>-97.68654</longitude>
+</region>
+<region>
+<id>276473</id>
+<name>North Burnett</name>
+<url>http://www.zillow.com/local-info/TX-Austin/North-Burnett/r_276473/</url>
+<latitude>30.390746</latitude>
+<longitude>-97.717771</longitude>
+</region>
+<region>
+<id>271353</id>
+<name>Downtown</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Downtown/r_271353/</url>
+<latitude>30.267715</latitude>
+<longitude>-97.744009</longitude>
+</region>
+<region>
+<id>271574</id>
+<name>South River City</name>
+<url>http://www.zillow.com/local-info/TX-Austin/South-River-City/r_271574/</url>
+<latitude>30.247314</latitude>
+<longitude>-97.744272</longitude>
+</region>
+<region>
+<id>271422</id>
+<name>Heritage Hills</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Heritage-Hills/r_271422/</url>
+<latitude>30.345505</latitude>
+<longitude>-97.688038</longitude>
+</region>
+<region>
+<id>271667</id>
+<name>Zilker</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Zilker/r_271667/</url>
+<latitude>30.255089</latitude>
+<longitude>-97.769809</longitude>
+</region>
+<region>
+<id>237669</id>
+<name>Shady Hollow</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Shady-Hollow/r_237669/</url>
+<latitude>30.164318</latitude>
+<longitude>-97.879041</longitude>
+</region>
+<region>
+<id>274993</id>
+<name>Pecan Springs-Springdale</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Pecan-Springs--Springdale/r_274993/</url>
+<latitude>30.297643</latitude>
+<longitude>-97.674787</longitude>
+</region>
+<region>
+<id>273989</id>
+<name>Highland</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Highland/r_273989/</url>
+<latitude>30.334264</latitude>
+<longitude>-97.715089</longitude>
+</region>
+<region>
+<id>275255</id>
+<name>Rosewood</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Rosewood/r_275255/</url>
+<latitude>30.274732</latitude>
+<longitude>-97.708931</longitude>
+</region>
+<region>
+<id>271665</id>
+<name>Wooten</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Wooten/r_271665/</url>
+<latitude>30.360407</latitude>
+<longitude>-97.721742</longitude>
+</region>
+<region>
+<id>271437</id>
+<name>Hyde Park</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Hyde-Park/r_271437/</url>
+<latitude>30.307434</latitude>
+<longitude>-97.726778</longitude>
+</region>
+<region>
+<id>271303</id>
+<name>Bouldin Creek</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Bouldin-Creek/r_271303/</url>
+<latitude>30.251526</latitude>
+<longitude>-97.75729</longitude>
+</region>
+<region>
+<id>275649</id>
+<name>Sweetbriar</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Sweetbriar/r_275649/</url>
+<latitude>30.199583</latitude>
+<longitude>-97.776202</longitude>
+</region>
+<region>
+<id>271616</id>
+<name>Upper Boggy Creek</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Upper-Boggy-Creek/r_271616/</url>
+<latitude>30.292212</latitude>
+<longitude>-97.716317</longitude>
+</region>
+<region>
+<id>271587</id>
+<name>St. Edwards</name>
+<url>http://www.zillow.com/local-info/TX-Austin/St.-Edwards/r_271587/</url>
+<latitude>30.227311</latitude>
+<longitude>-97.752412</longitude>
+</region>
+<region>
+<id>274900</id>
+<name>Old West Austin</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Old-West-Austin/r_274900/</url>
+<latitude>30.27625</latitude>
+<longitude>-97.760908</longitude>
+</region>
+<region>
+<id>271400</id>
+<name>Govalle</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Govalle/r_271400/</url>
+<latitude>30.259374</latitude>
+<longitude>-97.702648</longitude>
+</region>
+<region>
+<id>274730</id>
+<name>North Loop</name>
+<url>http://www.zillow.com/local-info/TX-Austin/North-Loop/r_274730/</url>
+<latitude>30.313944</latitude>
+<longitude>-97.718785</longitude>
+</region>
+<region>
+<id>271339</id>
+<name>Crestview</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Crestview/r_271339/</url>
+<latitude>30.346433</latitude>
+<longitude>-97.725195</longitude>
+</region>
+<region>
+<id>275246</id>
+<name>Rosedale</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Rosedale/r_275246/</url>
+<latitude>30.315672</latitude>
+<longitude>-97.74754</longitude>
+</region>
+<region>
+<id>271613</id>
+<name>University Hills</name>
+<url>http://www.zillow.com/local-info/TX-Austin/University-Hills/r_271613/</url>
+<latitude>30.31128</latitude>
+<longitude>-97.671246</longitude>
+</region>
+<region>
+<id>271325</id>
+<name>Central East Austin</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Central-East-Austin/r_271325/</url>
+<latitude>30.270504</latitude>
+<longitude>-97.723717</longitude>
+</region>
+<region>
+<id>271501</id>
+<name>North University</name>
+<url>http://www.zillow.com/local-info/TX-Austin/North-University/r_271501/</url>
+<latitude>30.296868</latitude>
+<longitude>-97.73633</longitude>
+</region>
+<region>
+<id>271500</id>
+<name>North Shoal Creek</name>
+<url>http://www.zillow.com/local-info/TX-Austin/North-Shoal-Creek/r_271500/</url>
+<latitude>30.367982</latitude>
+<longitude>-97.735807</longitude>
+</region>
+<region>
+<id>273924</id>
+<name>Hancock</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Hancock/r_273924/</url>
+<latitude>30.296627</latitude>
+<longitude>-97.724996</longitude>
+</region>
+<region>
+<id>271653</id>
+<name>Windsor Road</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Windsor-Road/r_271653/</url>
+<latitude>30.298648</latitude>
+<longitude>-97.751852</longitude>
+</region>
+<region>
+<id>271474</id>
+<name>MLK</name>
+<url>http://www.zillow.com/local-info/TX-Austin/MLK/r_271474/</url>
+<latitude>30.281887</latitude>
+<longitude>-97.692572</longitude>
+</region>
+<region>
+<id>275969</id>
+<name>Westgate</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Westgate/r_275969/</url>
+<latitude>30.224872</latitude>
+<longitude>-97.797625</longitude>
+</region>
+<region>
+<id>271632</id>
+<name>West Congress</name>
+<url>http://www.zillow.com/local-info/TX-Austin/West-Congress/r_271632/</url>
+<latitude>30.215949</latitude>
+<longitude>-97.772592</longitude>
+</region>
+<region>
+<id>271361</id>
+<name>East Congress</name>
+<url>http://www.zillow.com/local-info/TX-Austin/East-Congress/r_271361/</url>
+<latitude>30.210816</latitude>
+<longitude>-97.76333</longitude>
+</region>
+<region>
+<id>271393</id>
+<name>Galindo</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Galindo/r_271393/</url>
+<latitude>30.236492</latitude>
+<longitude>-97.767963</longitude>
+</region>
+<region>
+<id>271551</id>
+<name>RMMA</name>
+<url>http://www.zillow.com/local-info/TX-Austin/RMMA/r_271551/</url>
+<latitude>30.298546</latitude>
+<longitude>-97.701239</longitude>
+</region>
+<region>
+<id>273354</id>
+<name>Coronado Hills</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Coronado-Hills/r_273354/</url>
+<latitude>30.327008</latitude>
+<longitude>-97.684302</longitude>
+</region>
+<region>
+<id>271576</id>
+<name>Southeast</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Southeast/r_271576/</url>
+<latitude>30.202317</latitude>
+<longitude>-97.699957</longitude>
+</region>
+<region>
+<id>271360</id>
+<name>East Cesar Chavez</name>
+<url>http://www.zillow.com/local-info/TX-Austin/East-Cesar-Chavez/r_271360/</url>
+<latitude>30.257782</latitude>
+<longitude>-97.729723</longitude>
+</region>
+<region>
+<id>274045</id>
+<name>Holly</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Holly/r_274045/</url>
+<latitude>30.254781</latitude>
+<longitude>-97.719355</longitude>
+</region>
+<region>
+<id>274474</id>
+<name>Mckinney</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Mckinney/r_274474/</url>
+<latitude>30.198392</latitude>
+<longitude>-97.731284</longitude>
+</region>
+<region>
+<id>273440</id>
+<name>Dawson</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Dawson/r_273440/</url>
+<latitude>30.232807</latitude>
+<longitude>-97.761402</longitude>
+</region>
+<region>
+<id>231200</id>
+<name>Barton Creek</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Barton-Creek/r_231200/</url>
+<latitude>30.282316</latitude>
+<longitude>-97.866681</longitude>
+</region>
+<region>
+<id>271327</id>
+<name>Chestnut</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Chestnut/r_271327/</url>
+<latitude>30.277921</latitude>
+<longitude>-97.714952</longitude>
+</region>
+<region>
+<id>781232</id>
+<name>Old Enfield</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Old-Enfield/r_781232/</url>
+<latitude>30.286259</latitude>
+<longitude>-97.757333</longitude>
+</region>
+<region>
+<id>271442</id>
+<name>Johnston Terrace</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Johnston-Terrace/r_271442/</url>
+<latitude>30.257532</latitude>
+<longitude>-97.683629</longitude>
+</region>
+<region>
+<id>271611</id>
+<name>Triangle State</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Triangle-State/r_271611/</url>
+<latitude>30.310851</latitude>
+<longitude>-97.733348</longitude>
+</region>
+<region>
+<id>236270</id>
+<name>Onion Creek</name>
+<url>http://www.zillow.com/local-info/TX-Austin/Onion-Creek/r_236270/</url><latitude>30.123099</latitude><longitude>-97.790929</longitude></region><region><id>271396</id><name>Gateway</name><url>http://www.zillow.com/local-info/TX-Austin/Gateway/r_271396/</url><latitude>30.390081</latitude><longitude>-97.739867</longitude></region></list></response></RegionChildren:regionchildren><!-- H:026  T:651ms  S:6789  R:Sat Oct 20 17:52:13 PDT 2018  B:5.0.56683-bugfix_CAN-245.521db29~delivery_ready.6f7b9c7 -->

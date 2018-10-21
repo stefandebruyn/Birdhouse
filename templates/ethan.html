@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+        <style>
+        #map {
+   height: 100%;
+}
+    </style>
+</head>
+
+
+<body>
+
+{% if data %}
+{% for entry in data %}
+<p>{{ entry["latitude"] }}, {{ entry["longitude"] }}</p>
+{% endfor %}
+{% endif %}
+
+    {{googlemap("my_awesome_map", lat=37.4419, lng=-122.1430, markers=[(37.4419, -122.1430)])}}
+
+</body>
+</html>
